@@ -1,0 +1,1 @@
+a:1:{i:1;a:7:{s:6:"userid";s:1:"1";s:8:"username";s:10:"yiwangxiao";s:6:"roleid";s:1:"1";s:8:"realname";s:15:"超级管理员";s:4:"auth";s:0:"";s:9:"list_size";s:2:"10";s:10:"left_width";s:3:"200";}}
